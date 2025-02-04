@@ -1,7 +1,5 @@
 ## 👋 Welcome to My GitHub Profile!
 
-![Header Image](https://source.unsplash.com/1200x400/?technology,coding)
-
 ### 🚀 About Me
 Hi there! I'm **shossss**, a passionate **Web Engineer** specializing in backend development. I enjoy building scalable web applications, optimizing performance, and solving complex problems. My expertise lies in:
 
