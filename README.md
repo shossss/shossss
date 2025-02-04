@@ -8,12 +8,8 @@ Hi there! I'm **shossss**, a passionate **Web Engineer** specializing in backend
 - ☁️ **Cloud & Server Management** (AWS, Google Cloud, Firebase)
 - 🛠 **API Development** (REST, GraphQL)
 
-### 📊 Stats & Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossss&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossss&layout=compact&theme=radical)
 
-
-#### 🔥 [Another Project](https://github.com/YourGitHubUsername/AnotherRepo)
+#### 🔥 [Another Project](https://github.com/shossss/AnotherRepo)
 Another interesting project description.
 
 ### 🛠 Tech Stack
