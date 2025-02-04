@@ -3,7 +3,7 @@
 ### 🚀 About Me
 Hi there! I'm **shossss**, a passionate **Web Engineer** specializing in backend development. I enjoy building scalable web applications, optimizing performance, and solving complex problems. My expertise lies in:
 
-- 💻 **Backend Development** (PHP, Laravel, FuelPHP)
+- 💻 **Backend Development** (PHP, Laravel, Symfony, FuelPHP, Python)
 - 🔍 **Web Scraping & Automation** (Selenium, Pyppeteer)
 - ☁️ **Cloud & Server Management** (AWS, Google Cloud, Firebase)
 - 🛠 **API Development** (REST, GraphQL)
