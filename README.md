@@ -1,16 +1,17 @@
 ## 👋 Welcome to My GitHub Profile!
 
 ### 🚀 About Me
-Hi there! I'm **shossss**, a passionate **Web Engineer** specializing in backend development. I enjoy building scalable web applications, optimizing performance, and solving complex problems. My expertise lies in:
+Hi there! I'm **Sho Sakaguchi**, a passionate **Full-Stack Web Engineer** specializing in backend development. I love building high-performance applications, automating workflows, and exploring new technologies. My expertise includes:
 
-- 💻 **Backend Development** (PHP, Laravel, Symfony, FuelPHP, Python)
+- 💻 **Backend Development** (PHP, Laravel, FuelPHP, Symfony)
 - 🔍 **Web Scraping & Automation** (Selenium, Pyppeteer)
-- ☁️ **Cloud & Server Management** (AWS, Google Cloud, Firebase)
+- ☁️ **Cloud & Server Management** (AWS, Google Cloud, Firebase, Vercel)
+- ⚡ **Frontend Technologies** (React, Next.js, TypeScript)
 - 🛠 **API Development** (REST, GraphQL)
 
-
-#### 🔥 [Another Project](https://github.com/shossss/AnotherRepo)
-Another interesting project description.
+### 📊 GitHub Stats & Insights
+![GitHub Stats](https://github-readme-stats-clone-hla9.vercel.app/api?username=shossss&show_icons=true&theme=radical&token=PAT_1)
+![Top Languages](https://github-readme-stats-clone-hla9.vercel.app/api/top-langs/?username=shossss&layout=compact&theme=radical&token=PAT_1)
 
 ### 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -23,8 +24,9 @@ Another interesting project description.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📫 Connect with Me
+### 🌍 Connect with Me
+none
 
-
-⭐️ **If you like my work, consider giving a star to my repositories!**
+🚀 **Let's build something amazing together!** If you like my work, consider giving a ⭐️ to my repositories!
