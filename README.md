@@ -17,7 +17,11 @@ Hi there! I'm **Sho Sakaguchi**, a passionate **Full-Stack Web Engineer** specia
 
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,laravel,symfony,html,css,js,ts,jquery,react,nextjs,aws,gcp,firebase,vercel,docker,git,jenkins,linux,mysql,postgres,redis" />
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,php,laravel,symfony,html,css,js,ts,jquery,react,nextjs,aws,gcp,firebase,vercel,docker,git,jenkins,linux,mysql,postgres,redis" />
+    </a>
+  </p>
 </div>
 
 ### 🌍 Connect with Me
