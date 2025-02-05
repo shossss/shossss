@@ -3,7 +3,7 @@
 ### 🚀 About Me
 Hi there! I'm **Sho Sakaguchi**, a passionate **Full-Stack Web Engineer** specializing in backend development. I love building high-performance applications, automating workflows, and exploring new technologies. My expertise includes:
 
-- 💻 **Backend Development** (PHP, Laravel, FuelPHP, Symfony)
+- 💻 **Backend Development** (Python, PHP, Laravel, FuelPHP, Symfony)
 - 🔍 **Web Scraping & Automation** (Selenium, Pyppeteer)
 - ☁️ **Cloud & Server Management** (AWS, Google Cloud, Firebase, Vercel)
 - ⚡ **Frontend Technologies** (React, Next.js, TypeScript)
