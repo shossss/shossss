@@ -10,7 +10,7 @@ Hi there! I'm **Sho Sakaguchi**, a passionate **Full-Stack Web Engineer** specia
 - 🛠 **API Development** (REST, GraphQL)
 
 ### 📊 GitHub Stats & Insights
-<div align="center">
+<div>
   <img height="180px" src="https://github-readme-stats-clone-hla9.vercel.app/api?username=shossss&show_icons=true&theme=radical&token=PAT_1" />
   <img height="180px" src="https://github-readme-stats-clone-hla9.vercel.app/api/top-langs/?username=shossss&layout=compact&theme=radical&token=PAT_1" />
 </div>
