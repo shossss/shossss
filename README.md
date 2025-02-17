@@ -1,4 +1,4 @@
-## 👋 Welcome to My GitHub Profile
+## 👋 Welcome to My GitHub Profile!
 
 ### 🚀 About Me
 Hi there! I'm **Sho Sakaguchi**, a passionate **Full-Stack Web Engineer** specializing in backend development. I love building high-performance applications, automating workflows, and exploring new technologies. My expertise includes:
