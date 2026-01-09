@@ -3,7 +3,7 @@
 ### 🚀 About Me
 Hi there! I'm **Sho Sakaguchi**, a passionate **Full-Stack Web Engineer** specializing in backend development. I love building high-performance applications, automating workflows, and exploring new technologies. My expertise includes:
 
-- 💻 **Backend Development** (Python, PHP, Laravel, FuelPHP, Symfony)
+- 💻 **Backend Development** (Python, PHP, Laravel, FuelPHP, Symfony, Node.js)
 - 🔍 **Web Scraping & Automation** (Selenium, Pyppeteer)
 - ☁️ **Cloud & Server Management** (AWS, Google Cloud, Firebase, Vercel)
 - ⚡ **Frontend Technologies** (React, Next.js, TypeScript)
@@ -29,6 +29,7 @@ Hi there! I'm **Sho Sakaguchi**, a passionate **Full-Stack Web Engineer** specia
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
